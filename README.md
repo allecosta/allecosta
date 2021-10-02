@@ -1,4 +1,4 @@
-# Olá, Bem Vindo!
+# Hi there!
 
 ```php 
 <?php
@@ -11,13 +11,13 @@
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/alexandre-costa-1b47b61b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcodotcastro" height="30" width="40" /></a>
-          <a href="https://t.me/desenvolvendome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="marcodotcastro" height="30" width="40" /></a>
+          <a href="https://t.me/allecosta_as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="marcodotcastro" height="30" width="40" /></a><br><br><br>
           
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/allecosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allecosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecosta&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allecosta&layout=compact&langs_count=7&theme=dark"/><br>
 </div>
 
 <div style="display: inline_block"><br>
@@ -35,5 +35,5 @@
   <img align="center" alt="alle-linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  </div>
  
-<img align="right" alt="GIF" src="http://fux0ci3ty.tumblr.com/post/150310578943/" width="70%" height="400px" />
+<!-- <img align="right" alt="GIF" src="http://fux0ci3ty.tumblr.com/post/150310578943/" width="70%" height="400px" /> -->
 
