@@ -3,14 +3,14 @@
 ```php 
 <?php
 
-  echo "Hello World !!!"; 
+  echo "Hello, World!!"; 
   
 ?>
 ```
 
 <p align="left">
     <h3 align="left">Connect with me</h3>
-    <a href="https://www.linkedin.com/in/alexandre-costa-1b47b61b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/allexandrecosta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
           <a href="https://t.me/allecosta_as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" /></a><br><br><br>
           
 
