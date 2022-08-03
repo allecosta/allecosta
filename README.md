@@ -17,16 +17,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=allecosta&show_icons=true&theme=highcontrast"/></p><br>
 
-<hr>
-
-<h3 align="center">Developer Tech</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allecosta&show_icons=true&theme=highcontrast"/>
 </p><br>
-
-<hr>
-
-<h3 align="center">History</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allecosta&show_icons=true&theme=highcontrast"/>
