@@ -1,4 +1,12 @@
+<p>
+  Olá!
 
+  Desenvolvedor com foco em aplicações web e backend.
+
+  Pesquisador, autodidata, apaixonado por desenvolvimento web, segurança da informação e tecnologia como um todo.
+
+  Sou membro das comunidades PHP Brasil, Laravel Brasil e MySQL Brasil ambas no Telegram.
+</p>
 <!--<h3 align="center">Connect with me</h3>
 <a href="https://www.linkedin.com/in/allexandrecosta/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
