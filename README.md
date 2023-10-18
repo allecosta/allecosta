@@ -1,11 +1,11 @@
 <p>
   Olá!
 
-  Desenvolvedor com foco em aplicações web e backend.
+  Programador, analista de segurança de software com foco em aplicações web.
+
+  CTF player na HackerSec e TryHackMe.
 
   Pesquisador, autodidata, apaixonado por desenvolvimento web, segurança da informação e tecnologia como um todo.
-
-  Sou membro das comunidades PHP Brasil, Laravel Brasil e MySQL Brasil ambas no Telegram.
 </p>
 <!--<h3 align="center">Connect with me</h3>
 <a href="https://www.linkedin.com/in/allexandrecosta/" target="_blank">
