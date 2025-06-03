@@ -1,12 +1,8 @@
-<p>
-  Olá!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Application+Security+Consultant;Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-  Programador, analista de segurança de software com foco em aplicações web.
-
-  CTF player na HackerSec e TryHackMe.
-
-  Pesquisador, autodidata, apaixonado por desenvolvimento web, segurança da informação e tecnologia como um todo.
-</p>
+<p> ~$ pesquisador, autodidata, apaixonado por desenvolvimento web, segurança da informação e tecnologia como um todo </p>
 <!--<h3 align="center">Connect with me</h3>
 <a href="https://www.linkedin.com/in/allexandrecosta/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
