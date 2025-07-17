@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Application+Security+Consultant;Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Application+Security+Consultant;Developer;Open+Source+Contributor;Pentester" alt="Typing SVG" />
 </div>
 
-<p> ~$ pesquisador, autodidata, apaixonado por desenvolvimento web, segurança da informação e tecnologia como um todo </p>
+<p> root@github:~$ </p>
+<p> Pesquisador, autodidata, apaixonado por desenvolvimento de software, segurança da informação, appsec e hacking</p>
 <!--<h3 align="center">Connect with me</h3>
 <a href="https://www.linkedin.com/in/allexandrecosta/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
@@ -25,9 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allecosta&show_icons=true&theme=highcontrast"/>
 </p><br>
 
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allecosta&show_icons=true&theme=highcontrast"/>
-</p><br>  
+</p><br>-->  
   
  
 
