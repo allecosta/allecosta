@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=130&section=header&text=4nvil&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Security%20Research%20%C2%B7%20Programmer&descSize=15&descAlignY=80&descColor=8b9dc3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=130&section=header&text=4nvil&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Security%20Researcher%20%C2%B7%20Programmer&descSize=15&descAlignY=80&descColor=8b9dc3" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Application+Security;Systems+Audit;Penetration+Testing;LGPD;Information+Security;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Researcher;Osint;Opsec;Infosec;" alt="Typing SVG" />
 </div>
 
 <br><br>
